@@ -13,4 +13,4 @@ for candidate in candidates:
 			isPrime = False
 			break
 	if isPrime:
-		print candidate
+        print(candidate)
